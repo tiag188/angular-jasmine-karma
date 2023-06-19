@@ -1,5 +1,7 @@
 # Angular: Testes Automatizados com Jasmine e Karma
 
+![_1765c847-611e-43ac-880b-b1dd020b22dc](https://github.com/tiag188/angular-jasmine-karma/assets/70734516/15dfe439-3993-4174-b90b-303a1acef49d)
+
 ## Descrição
 
 Este projeto tem como objetivo demonstrar a implementação de testes automatizados em um aplicativo Angular utilizando as ferramentas Jasmine e Karma. Os testes automatizados são fundamentais para garantir a qualidade do código, identificar possíveis erros e facilitar a manutenção do projeto.
