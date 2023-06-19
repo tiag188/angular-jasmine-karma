@@ -29,7 +29,7 @@ Siga os passos abaixo para instalar o ambiente de desenvolvimento:
 3. Instale as dependências do projeto:
 `npm install`
 
-## Executando os T
+## Executando os Testes
 Para executar os testes automatizados, utilize o seguinte comando:
 `ng test`
 
