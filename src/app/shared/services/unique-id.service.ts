@@ -6,7 +6,6 @@ import { v4 as uuidv4 } from 'uuid';
 })
 export class UniqueIdService {
   private numberOfGeneratedIds = 0;
-  constructor() {}
 
   public generateUniqueIdWithPrefix(prefix: string): string {
     if(!prefix) {
